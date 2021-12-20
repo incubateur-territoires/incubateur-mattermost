@@ -1,1 +1,1 @@
-FROM mattermost/mattermost-team-edition:release-6.0
+FROM mattermost/mattermost-team-edition:release-6.2
